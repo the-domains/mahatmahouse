@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[MahatmaHouse]]></title>
         <description><![CDATA[MahatmaHouse]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mahatmahouse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 06:26:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 06:27:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mahatmahouse/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to Mahatma House]]></title>
+            <description><![CDATA[<article><h1>Welcome to Mahatma House</h1><p>This sleek and sophisticated five-bedroom villa on Bali’s south-west coast is the epitome of cool, featuring polished black surfaces, meticulous symmetrical lines and a stunning array of Asian antiquities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9cf1f29da18b56f01c80a7d0a051254daa3a5f2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/mahatmahouse/dbafded0-4191-444a-8a56-8e1816b5672b/index.html</link>
+            <guid isPermaLink="false">dbafded0-4191-444a-8a56-8e1816b5672b</guid>
+            <pubDate>Tue, 02 Feb 2016 06:26:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Mahatma House]]></title>
             <description><![CDATA[<article><h1>About Mahatma House</h1><p>Super sleek and sexy, but fabulously comfortable, Mahatma House would not be out of place in one of the world’s fashion capitals, yet this impressive five-bedroom villa is located in the beautiful and very traditional Balinese village of Seseh, just a stone’s throw from the beach.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c2bb1871d36c5be32d217513a48cfbc800cdeff9.jpg"></article>]]></description>
-            <link>undefinedbe38adba-9ef6-4bc2-b040-dc87ba51f711/index.html</link>
+            <link>https://thegrid.ai/mahatmahouse/be38adba-9ef6-4bc2-b040-dc87ba51f711/index.html</link>
             <guid isPermaLink="false">be38adba-9ef6-4bc2-b040-dc87ba51f711</guid>
             <pubDate>Tue, 02 Feb 2016 06:26:38 GMT</pubDate>
         </item>
